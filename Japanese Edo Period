@@ -36,7 +36,7 @@
                 event-set__leave="_event: mouseleave; _target: #flag; visible: false">
                 <a-box 
                     id="flag"
-                    src="images.png" 
+                    src="https://i.ibb.co/LdHDh4Y9/images.png" 
                     color="#FFFFFF" 
                     visible="false" 
                     position="0 0.35 8" 
@@ -55,14 +55,14 @@
 
             <!-- =========EDIFICIOS==========  -->
 
-                <a-gltf-model id="templo" src="compressed_compressed_japanese_temple.glb" 
+                <a-gltf-model id="templo" src="https://cdn.tinyglb.com/models/4a2392a6fa04477493b9015416cf0571.glb" 
                     alt="templo" 
                     position="0 0 -40" 
                     scale="0.01 0.01 0.01" 
                     rotation="0 0 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_torii_gate.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/26df246b648249448a9a85552e3e07bd.glb" 
                     alt="puerta tori" 
                     position="0 0 -15" 
                     scale="14 14 14">
@@ -74,21 +74,21 @@
                     </a-light>
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_japanese_restaurant.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/c728a8c818a148aeab0f867e2e917b66.glb" 
                     alt="tienda" 
                     position="-30 0 5" 
                     scale="1 1 1" 
                     rotation="0 90 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_asian_shrine.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/5fb5871d0e6b46868efd2a1f92bc8704.glb" 
                     alt="casita" 
                     position="-30 0 -20" 
                     scale="1.5 1.5 1.5" 
                     rotation="0 55 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_the_water_shrine.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/783d20c383b14c77a3c02175dfe4d5ea.glb" 
                     alt="cascada" 
                     position="40 9 -28" 
                     scale="0.1 0.1 0.1" 
@@ -97,7 +97,7 @@
                   
             <!-- =========PAISAJE========== -->
 
-                <a-gltf-model src="compressed_compressed_steven_universe_the_space_race_vr.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/262ef18899b449b798df4de8d079b5e2.glb" 
                     alt="cielo" 
                     position="30 0 -49" 
                     scale="40 40 40" 
@@ -112,21 +112,21 @@
 
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_aerial_grassy_and_rocky_mountain_1.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/8719c13ab9a5456c9e80ba55cc33ef31.glb" 
                     alt="mountain" 
                     position="100 0 -300" 
                     scale="200 200 200" 
                     rotation="0 -180 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_aerial_grassy_and_rocky_mountain_1.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/8719c13ab9a5456c9e80ba55cc33ef31.glb" 
                     alt="mountain" 
                     position="-100 0 -300" 
                     scale="200 200 200" 
                     rotation="0 180 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_cerezo_floreciendo.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/24124bd7335c44d29df2e26928cff98c.glb" 
                     alt="cerezoD" 
                     position="-20 0 -40" 
                     scale="40 40 40"
@@ -204,13 +204,13 @@
 
                 </a-entity>
 
-                <a-gltf-model src="compressed_cerezo_floreciendo.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/24124bd7335c44d29df2e26928cff98c.glb" 
                     alt="cerezoI" 
                     position="20 0 -50" 
                     scale="40 40 40">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_cerezo_floreciendo.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/24124bd7335c44d29df2e26928cff98c.glb" 
                     alt="cerezoI2" 
                     position="30 0 -49" 
                     scale="40 40 40" 
@@ -219,26 +219,26 @@
                            
             <!-- =========PLANTAS========== -->
 
-                <a-gltf-model src="compressed_grass.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/3751678cfd104f9887a0879e7d3f6bb2.glb" 
                     alt="floresI" 
                     position="-20 0 -40" 
                     scale="2 2 2">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_grass.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/3751678cfd104f9887a0879e7d3f6bb2.glb" 
                     alt="floresD" 
                     position="20 0 -50" 
                     scale="2 2 2" 
                     rotation="0 90 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_grass (2).glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/417f89856d584515bc1882e1a658c3b2.glb" 
                     alt="grassI" 
                     position="-4 0 -28" 
                     scale="0.15 0.15 0.15">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_grass (2).glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/417f89856d584515bc1882e1a658c3b2.glb" 
                     alt="grassD" 
                     position="4 0 -28" 
                     scale="0.15 0.15 0.15" 
@@ -247,28 +247,28 @@
                 
             <!-- =========DECORACION========== -->
 
-                <a-gltf-model src="compressed_compressed_buda.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/290528bf459c4c4abb680d2d6593fb88.glb" 
                     alt="buda" 
                     position="23 0 -45" 
                     scale="0.5 0.5 0.5" 
                     rotation="0 -15 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_japanese_paper_lanterns_collection.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/f611c22f5f0a48aa99333f388df8b12a.glb" 
                     alt="farolillosD" 
                     position="4 0 -10" 
                     scale="1.5 1.5 1.5" 
                     rotation="0 -90 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_compressed_japanese_paper_lanterns_collection.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/f611c22f5f0a48aa99333f388df8b12a.glb" 
                     alt="farolillosI" 
                     position="-4 0 -10" 
                     scale="1.5 1.5 1.5" 
                     rotation="0 -90 0">
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_japanese_stone_lantern.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/b9e81d602f284278b65ff93dd703aecb.glb" 
                     alt="farol1" 
                     position="18 0 -48" 
                     scale="0.02 0.02 0.02">
@@ -281,7 +281,7 @@
                     </a-light>
                 </a-gltf-model>
 
-                 <a-gltf-model src="compressed_japanese_stone_lantern.glb" 
+                 <a-gltf-model src="https://cdn.tinyglb.com/models/b9e81d602f284278b65ff93dd703aecb.glb" 
                     alt="farol2" 
                     position="30 0 -45" 
                     scale="0.02 0.02 0.02">
@@ -294,7 +294,7 @@
                     </a-light>
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_japanese_stone_lantern.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/b9e81d602f284278b65ff93dd703aecb.glb" 
                     alt="farol3" 
                     position="-15 0 -35" 
                     scale="0.02 0.02 0.02">
@@ -307,7 +307,7 @@
                     </a-light>
                 </a-gltf-model>
 
-                <a-gltf-model src="compressed_forest_well.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/54b114fb59464f7a9f1dcbe083fbbd0e.glb" 
                     alt="pozo" 
                     position="38 0 -37.5" 
                     scale="3 3 3" 
@@ -351,7 +351,7 @@
 
 
 
-                <a-gltf-model src="compressed_compressed_japanese_armor_edo_period_1603-1868.glb" 
+                <a-gltf-model src="https://cdn.tinyglb.com/models/a66f326b06a84414b377269da9d6d355.glb" 
                     alt="samurai" 
                     position="-20 6.7 -28" 
                     scale="0.004 0.004 0.004" 
